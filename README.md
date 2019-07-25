@@ -26,7 +26,7 @@ the significant benefits of the proposed method is that it can be applicable to 
 staining histopathology images taken of different patients. Due to the feature learning
 characteristic of deep convolutional neural network and the high level shape prior
 modeling, the proposed method is general enough to work properly across different
-image scenario like healthy, adenoma, hyperplasia. Finally, we will validate the proposed
+image scenario like healthy, adenoma, hyperplasia. Finally, we validated the proposed
 algorithm on several histopathology images using a range of different tissue from various
 patients with differents diseases.
 
